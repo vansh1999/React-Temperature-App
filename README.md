@@ -10,15 +10,14 @@
 
 follow the steps given below 
 
- $ git clone
+ $ git clone https://github.com/vansh1999/React-Temperature-App.git
  
- $ cd 
+ $ cd React-Temperature-App
  
  $ npm install
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
